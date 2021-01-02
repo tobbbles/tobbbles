@@ -22,4 +22,4 @@ Things I like:
 
 -----
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L1S6SU)
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/tobbbles/donate)
