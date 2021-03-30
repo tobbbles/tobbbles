@@ -10,7 +10,3 @@
 - ☕️ drink coffee
 - 🤖 write yaml manifests
 - 👨‍💻 execute go services
-
------
-
-[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/tobbbles/donate)
