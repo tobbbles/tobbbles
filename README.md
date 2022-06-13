@@ -1,4 +1,4 @@
-### hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 <p align="center">
   <a href="https://noise.tobbbl.es">read my blog</a>  |  <a href="https://links.tobbbl.es/twitter">tweet me</a>  |  <a href="mailto:hi@tobbble.es">mail me</a>  
