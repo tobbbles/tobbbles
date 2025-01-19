@@ -1,7 +1,7 @@
 ### hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">
 
 <p align="center">
-  <a href="https://polarsquad.com/blog/from-a-developer-to-infrastructure-expert-the-story-of-toby-archer">read me</a>  |  <a href="mailto:hi@tobbble.es">mail me</a>  
+  <a href="https://polarsquad.com/blog/from-a-developer-to-infrastructure-expert-the-story-of-toby-archer">read</a>  |  <a href="mailto:hi@tobbble.es">mail</a>  |  <a href="https://matrix.to/#/@tobbbles:matrix.tobbbles.cloud">matrix</a>   
 </p>
 
 
